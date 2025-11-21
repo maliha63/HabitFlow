@@ -147,7 +147,7 @@ This project is licensed under the MIT License.
 
 * **Author**: Maliha Bathool C — [malihabathoolc@gmail.com](mailto:malihabathoolc@gmail.com)
 * **GitHub**: [https://github.com/maliha63](https://github.com/maliha63)
-* **Live App**: [https://habit-flow.vercel.app/](https://habit-flow.vercel.app/)
+* **Live App**: [https://habit-flow.vercel.app/](https://habit-flow-rust.vercel.app/)
 
 ---
 
