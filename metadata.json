@@ -1,0 +1,5 @@
+{
+  "name": "HabitFlow",
+  "description": "A premium, mobile-first habit tracker with dark mode, analytics, and Google Sheets integration.",
+  "requestFramePermissions": []
+}
