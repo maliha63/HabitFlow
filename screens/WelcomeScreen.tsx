@@ -32,11 +32,6 @@ const WelcomeScreen: React.FC = () => {
                 
                 {/* Header */}
                 <div className="text-center space-y-2">
-                    <img 
-                        src="icon.svg" 
-                        alt="App Logo" 
-                        className="w-24 h-24 mx-auto mb-6 rounded-3xl shadow-2xl shadow-indigo-500/20 hover:scale-105 transition-transform duration-500"
-                    />
                     <h1 className="text-3xl font-bold tracking-tight">Welcome to HabitFlow</h1>
                     <p className="text-gray-400 text-sm leading-relaxed">
                         Track your goals, visualize progress, and build better habits. Let's get to know you first.
