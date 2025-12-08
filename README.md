@@ -4,7 +4,10 @@ A smart web app / PWA that helps you track habits, maintain streaks, and build a
 
 <img width="1366" height="768" alt="HabitFlow Spalsh screen" src="https://github.com/user-attachments/assets/60f6ca04-b36b-4604-b876-40cdec5a29c7" />
 
-<img width="1419" height="2796" alt="WhatsApp Image 2025-12-08 at 8 32 36 PM-portrait" src="https://github.com/user-attachments/assets/e5d46aa5-73fd-485b-bf89-dfbf79d6c731" />
+<img src="https://github.com/user-attachments/assets/e5d46aa5-73fd-485b-bf89-dfbf79d6c731"
+     alt="Mobile Mockup"
+     width="300" />
+
 
 
 ![HabitFlow Mobile Preview](https://github.com/user-attachments/assets/ae8db635-254a-46f3-85ce-533cd0654852)
