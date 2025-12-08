@@ -1,6 +1,6 @@
 # HabitFlow 🌱
 
-A smart web app that helps you track habits, maintain streaks, and build a consistent daily routine.
+A smart web app / PWA that helps you track habits, maintain streaks, and build a consistent daily routine.
 
 <img width="1366" height="768" alt="HabitFlow Spalsh screen" src="https://github.com/user-attachments/assets/60f6ca04-b36b-4604-b876-40cdec5a29c7" />
 
