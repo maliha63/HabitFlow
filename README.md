@@ -2,6 +2,8 @@
 
 A smart web app that helps you track habits, maintain streaks, and build a consistent daily routine.
 
+<img width="1366" height="768" alt="HabitFlow Spalsh screen" src="https://github.com/user-attachments/assets/45e8d38e-8808-4c0c-a5da-dbf08732edd1" />
+
 ---
 
 ## Table of Contents
