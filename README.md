@@ -12,8 +12,6 @@ A smart web app / PWA that helps you track habits, maintain streaks, and build a
 </p>
 
 
-![HabitFlow Mobile Preview](https://github.com/user-attachments/assets/ae8db635-254a-46f3-85ce-533cd0654852)
-
 ---
 
 ## Table of Contents
